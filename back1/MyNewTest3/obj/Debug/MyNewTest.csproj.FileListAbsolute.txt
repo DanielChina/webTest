@@ -1,0 +1,11 @@
+C:\Users\THink\source\repos\MyNewTest\MyNewTest\bin\Debug\chromedriver-license.txt
+C:\Users\THink\source\repos\MyNewTest\MyNewTest\bin\Debug\MyNewTest.exe.config
+C:\Users\THink\source\repos\MyNewTest\MyNewTest\bin\Debug\MyNewTest.exe
+C:\Users\THink\source\repos\MyNewTest\MyNewTest\bin\Debug\MyNewTest.pdb
+C:\Users\THink\source\repos\MyNewTest\MyNewTest\bin\Debug\WebDriver.dll
+C:\Users\THink\source\repos\MyNewTest\MyNewTest\bin\Debug\WebDriver.xml
+C:\Users\THink\source\repos\MyNewTest\MyNewTest\obj\Debug\MyNewTest.csprojAssemblyReference.cache
+C:\Users\THink\source\repos\MyNewTest\MyNewTest\obj\Debug\MyNewTest.csproj.CoreCompileInputs.cache
+C:\Users\THink\source\repos\MyNewTest\MyNewTest\obj\Debug\MyNewTest.csproj.CopyComplete
+C:\Users\THink\source\repos\MyNewTest\MyNewTest\obj\Debug\MyNewTest.exe
+C:\Users\THink\source\repos\MyNewTest\MyNewTest\obj\Debug\MyNewTest.pdb
